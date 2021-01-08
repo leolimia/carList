@@ -15,4 +15,4 @@ filtrando los  datos segun las siguientes especificaciones:
 
 -Vehículos ordenados por precio de mayor a menor
 
-![alt text](https://github.com/leolimia/carList/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/leolimia/carList/blob/master/images/diagrama.png)
